@@ -1,0 +1,4 @@
+*.txt
+demo.*
+/.vscode
+.env
