@@ -2,3 +2,4 @@
 demo.*
 /.vscode
 .env
+.exe
