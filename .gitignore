@@ -2,4 +2,4 @@
 demo.*
 /.vscode
 .env
-.exe
+*.exe
