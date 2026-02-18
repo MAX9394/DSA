@@ -3,4 +3,3 @@ demo.*
 /.vscode
 .env
 *.exe
-sublime_sequence.py
