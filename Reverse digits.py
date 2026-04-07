@@ -16,3 +16,18 @@ else:
         n = n // 10
     
     print(sign + ''.join(result))
+
+# Bit shift Method
+# if x<=-(1<<31) or x>=(1<<31)-1:
+#     return 0
+            
+# if x>0:
+#     a=int(str(x)[::-1])
+#     if  a>(1<<31)-1:
+#         return 0
+#     return a
+# else:
+#     a=-int(str(-x)[::-1])
+#     if a<-(1<<31):
+#         return 0
+#     return a
