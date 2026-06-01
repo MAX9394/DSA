@@ -3,3 +3,5 @@ demo.*
 /.vscode
 .env
 *.exe
+pattern.cpp
+pattern.exe
