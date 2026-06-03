@@ -1,5 +1,10 @@
 # Data Structures and Algorithms
 
+## Arrays
+
+- [Largest_element.py](./Arrays/Largest_element.py)
+- [Second_largest_element.py](./Arrays/Second_largest_element.py)
+
 ## Basics
 
 - [1-N_recursion.py](./Basics/1-N_recursion.py)
