@@ -50,6 +50,8 @@
 - [Bubble_Sort.py](./Sorting/Bubble_Sort.py)
 - [Insertion_Sort.py](./Sorting/Insertion_Sort.py)
 - [Merge_Sort.py](./Sorting/Merge_Sort.py)
+- [Quick_Sort.py](./Sorting/Quick_Sort.py)
 - [Recursive_Bubble_Sort.py](./Sorting/Recursive_Bubble_Sort.py)
+- [Recursive_Insertion_Sort.py](./Sorting/Recursive_Insertion_Sort.py)
 - [Selection_Sort.py](./Sorting/Selection_Sort.py)
 
