@@ -2,7 +2,10 @@
 
 ## Arrays
 
+- [Is_Array_Sorted.py](./Arrays/Is_Array_Sorted.py)
 - [Largest_element.py](./Arrays/Largest_element.py)
+- [Left_Shift_Array.py](./Arrays/Left_Shift_Array.py)
+- [Remove_Duplicates.py](./Arrays/Remove_Duplicates.py)
 - [Second_largest_element.py](./Arrays/Second_largest_element.py)
 
 ## Basics
