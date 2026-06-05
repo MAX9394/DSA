@@ -5,8 +5,13 @@
 - [Is_Array_Sorted.py](./Arrays/Is_Array_Sorted.py)
 - [Largest_element.py](./Arrays/Largest_element.py)
 - [Left_Shift_Array.py](./Arrays/Left_Shift_Array.py)
+- [Linear_Search.py](./Arrays/Linear_Search.py)
+- [Missing_Number.py](./Arrays/Missing_Number.py)
 - [Remove_Duplicates.py](./Arrays/Remove_Duplicates.py)
 - [Second_largest_element.py](./Arrays/Second_largest_element.py)
+- [Shift_K.py](./Arrays/Shift_K.py)
+- [Shift_zeros.py](./Arrays/Shift_zeros.py)
+- [Union.py](./Arrays/Union.py)
 
 ## Basics
 
