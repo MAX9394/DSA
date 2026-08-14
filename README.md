@@ -2,20 +2,30 @@
 
 ## Arrays
 
+- [3_Sum.py](./Arrays/3_Sum.py)
+- [Array_Leaders.py](./Arrays/Array_Leaders.py)
 - [Consecutive_Ones.py](./Arrays/Consecutive_Ones.py)
+- [Consecutive_Sequence.py](./Arrays/Consecutive_Sequence.py)
 - [Is_Array_Sorted.py](./Arrays/Is_Array_Sorted.py)
 - [Largest_element.py](./Arrays/Largest_element.py)
 - [Left_Shift_Array.py](./Arrays/Left_Shift_Array.py)
 - [Linear_Search.py](./Arrays/Linear_Search.py)
 - [Longest_Subarray_Sum.py](./Arrays/Longest_Subarray_Sum.py)
 - [Majority_Element.py](./Arrays/Majority_Element.py)
+- [Max_Subarray_sum.py](./Arrays/Max_Subarray_sum.py)
+- [Maximum_Water_Container.py](./Arrays/Maximum_Water_Container.py)
+- [Merge_Arrays.py](./Arrays/Merge_Arrays.py)
 - [Missing_Number.py](./Arrays/Missing_Number.py)
+- [Missing_Repeating_Values.py](./Arrays/Missing_Repeating_Values.py)
+- [Next_Permutation.py](./Arrays/Next_Permutation.py)
+- [Rearrange_Elements.py](./Arrays/Rearrange_Elements.py)
 - [Remove_Duplicates.py](./Arrays/Remove_Duplicates.py)
 - [Second_largest_element.py](./Arrays/Second_largest_element.py)
 - [Shift_K.py](./Arrays/Shift_K.py)
 - [Shift_zeros.py](./Arrays/Shift_zeros.py)
 - [Singular_Element.py](./Arrays/Singular_Element.py)
 - [Sort_0_1_2.py](./Arrays/Sort_0_1_2.py)
+- [Stocks.py](./Arrays/Stocks.py)
 - [Subarray_Sum.py](./Arrays/Subarray_Sum.py)
 - [Two_Sum.py](./Arrays/Two_Sum.py)
 - [Union.py](./Arrays/Union.py)
@@ -26,6 +36,7 @@
 - [Armstrong_Number.py](./Basics/Armstrong_Number.py)
 - [Array_Reversal.py](./Basics/Array_Reversal.py)
 - [Best_profit_from_stocks.py](./Basics/Best_profit_from_stocks.py)
+- [Binary_Exponentiation.py](./Basics/Binary_Exponentiation.py)
 - [Divisors.py](./Basics/Divisors.py)
 - [Factorial.py](./Basics/Factorial.py)
 - [Frequency_Hashing.py](./Basics/Frequency_Hashing.py)
@@ -64,6 +75,11 @@
 - [pattern_9.py](./Basics/pattern_9.py)
 - [rec_Fibonacci.py](./Basics/rec_Fibonacci.py)
 - [rec_Palindrome.py](./Basics/rec_Palindrome.py)
+
+## Interview_Prep
+
+- [Minimum_Cake_Cuts.py](./Interview_Prep/Minimum_Cake_Cuts.py)
+- [Smallest_Adjacent.py](./Interview_Prep/Smallest_Adjacent.py)
 
 ## Sorting
 
