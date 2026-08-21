@@ -76,10 +76,22 @@
 - [rec_Fibonacci.py](./Basics/rec_Fibonacci.py)
 - [rec_Palindrome.py](./Basics/rec_Palindrome.py)
 
+## Binary_Search
+
+- [Rotated_Sorted_Array.py](./Binary_Search/Rotated_Sorted_Array.py)
+
 ## Interview_Prep
 
 - [Minimum_Cake_Cuts.py](./Interview_Prep/Minimum_Cake_Cuts.py)
 - [Smallest_Adjacent.py](./Interview_Prep/Smallest_Adjacent.py)
+
+## Linked_List
+
+- [Reorder_List.py](./Linked_List/Reorder_List.py)
+
+## Matrix
+
+- [Set_Matrix_Zeros.py](./Matrix/Set_Matrix_Zeros.py)
 
 ## Sorting
 
@@ -90,4 +102,8 @@
 - [Recursive_Bubble_Sort.py](./Sorting/Recursive_Bubble_Sort.py)
 - [Recursive_Insertion_Sort.py](./Sorting/Recursive_Insertion_Sort.py)
 - [Selection_Sort.py](./Sorting/Selection_Sort.py)
+
+## Strings
+
+- [Valid_Palindrome.py](./Strings/Valid_Palindrome.py)
 
