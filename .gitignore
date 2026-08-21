@@ -5,3 +5,5 @@ demo.*
 *.exe
 pattern.cpp
 pattern.exe
+/OOPS practice
+/.venv
